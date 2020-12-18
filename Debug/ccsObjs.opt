@@ -1,0 +1,1 @@
+"./SysTick.obj" "./dht11.obj" "./startup_ccs.obj" "./timer.obj" "./uart_echo.obj" "../uart_echo_ccs.cmd" -llibc.a -l"/Users/marcelobaez/ti/tivaware_c_series_2_1_4_178/driverlib/ccs/Debug/driverlib.lib" 
